@@ -18,9 +18,3 @@ This repository includes hands-on examples of:
 - ✅ Methods and Interfaces
 - ✅ Error Handling
 - ✅ Packages and Modules
-
-
----
-
-## 📂 Folder Structure
-
