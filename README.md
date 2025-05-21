@@ -15,7 +15,5 @@ This repository includes hands-on examples of:
 - ✅ Pointers and Structs
 - ✅ Goroutines and Channels (Concurrency)
 - ✅ Error Handling
-
-- to be added soon
 - ✅ Methods and Interfaces
 - ✅ Packages and Modules
