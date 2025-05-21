@@ -4,7 +4,7 @@ Welcome to **Go Basics** – a beginner-friendly repository that covers the fund
 
 ---
 
-## 📚 What You'll Learn
+## 📚 What to expect from this repo
 
 This repository includes hands-on examples of:
 
@@ -14,7 +14,8 @@ This repository includes hands-on examples of:
 - ✅ Arrays, Slices, and Maps
 - ✅ Pointers and Structs
 - ✅ Goroutines and Channels (Concurrency)
+- ✅ Error Handling
+
 - to be added soon
 - ✅ Methods and Interfaces
-- ✅ Error Handling
 - ✅ Packages and Modules
